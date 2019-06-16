@@ -12,6 +12,8 @@ int test_1()
 	
 	printf("hello world\n");
 	
+	printf("hello xi'an\n");
+	
 	printf("end test_1 function\n");
 	
 	return 0;
